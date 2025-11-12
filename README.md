@@ -27,8 +27,8 @@ been used in hundreds of scientific papers as a benchmark. In this assignment, y
 as a testing ground to learn the idea of modularity and to implement a method that tries to
 rediscover the split between Mr. Hi’s group and the club president’s group.
 
-#Files
+# Files
 Karate_club_partition.ipynb 
 
-#Reference
+# Reference
 Based on Newman's 2006 paper on modularity and community structure. Uses the classic Zachary Karate Club dataset from 1977.
