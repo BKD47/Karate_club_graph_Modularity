@@ -21,11 +21,7 @@ truth” outcome (two groups), but the network data were collected before the sp
 This allows us to ask: Can a community-detection method, applied only to the graph structure,
 recover the division that actually happened? In other words, can we use mathematics to uncover
 the social fault lines that were about to fracture the club?
-For these reasons, the Karate Club graph is the “hello world” of community detection: it
-is small (only 34 nodes, 78 edges), simple to visualize, and historically meaningful. It has
-been used in hundreds of scientific papers as a benchmark. In this assignment, you will use it
-as a testing ground to learn the idea of modularity and to implement a method that tries to
-rediscover the split between Mr. Hi’s group and the club president’s group.
+Lets see !
 
 # Files
 Karate_club_partition.ipynb 
