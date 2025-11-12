@@ -24,7 +24,7 @@ the social fault lines that were about to fracture the club?
 Lets see !
 
 # Files
-- 'Karate_club_partition.ipynb'
+-  'Karate_club_partition.ipynb'
 
 # Reference
 Based on Newman's 2006 paper on modularity and community structure. Uses the classic Zachary Karate Club dataset from 1977.
